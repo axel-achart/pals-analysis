@@ -1,0 +1,150 @@
+﻿"PS: This table only refreshes the data and does not include all occurrences of Palu. For example, the level 10 Balrog Sheep and Mammoth fights that appear in Maple Leaf Forest are random events. pending upgrade",,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Pallu refresh level reference,,,,,Minimum appearance level of Palu + refresh area,,,,,,,,Palu's maximum appearance level + refresh area,,,,,
+,,,,,,,,,,,,,,,,,,
+ID,name,minimum level,maximum level,,ID,name,minimum level,fecundity,Pallu refresh type,Night only,refresh area,,ID,name,maximum level,Pallu refresh type,Night only,refresh area
+1,Mian Youyou,1,14,,1,Mian Youyou,1,1470,Creeps,,grassland,,1,Mian Youyou,14,Creeps,,grassland
+2,Naughty cat,1,13,,2,Naughty cat,1,1460,Creeps,,grassland,,2,Naughty cat,13,Random dungeon boss,,dungeon
+3,Pipi Chicken,1,13,,3,Pipi Chicken,1,1500,Creeps,,grassland,,3,Pipi Chicken,13,Random dungeon boss,,dungeon
+4,green leaf rat,2,13,,4,green leaf rat,2,1430,Creeps,,islands,,4,green leaf rat,13,Random dungeon boss,,dungeon
+5,tinder fox,2,18,,5,tinder fox,2,1400,Creeps,,islands,,5,tinder fox,18,Wild BOSS,,grassland
+6,surf duck,2,13,,6,surf duck,2,1330,Creeps,,islands,,6,surf duck,13,Random dungeon boss,,dungeon
+7,Volt Meow,3,17,,7,Volt Meow,3,1410,Creeps,,grassland,,6,surf duck,13,Creeps,,grassland
+8,Neolepithecus,2,13,,8,Neolepithecus,2,1250,Creeps,,islands,,7,Volt Meow,17,Creeps,,grassland
+9,Fire Deer,2,13,,9,Fire Deer,2,1155,Creeps,,islands,,8,Neolepithecus,13,Random dungeon boss,,dungeon
+10,Keimaru,2,45,,10,Keimaru,2,1350,Creeps,,grassland,,9,Fire Deer,13,Random dungeon boss,,dungeon
+11,King Keimaru,15,22,,11,King Keimaru,15,520,Secret Domain BOSS,,grassland,,10,Keimaru,45,Random dungeon boss,,dungeon
+12,electric rat,3,13,,12,ice agouti,10,1360,event,,Random events,,11,King Keimaru,22,Creeps,,game reserve
+12,ice agouti,10,10,,12,electric rat,3,1370,Creeps,,grassland,,12,ice agouti,10,event,,Random events
+13,Ye Ni Ni (Special),2,14,,13,Ye NiNi,2,1240,Creeps,,islands,,12,electric rat,13,Random dungeon boss,,dungeon
+13,Ye NiNi,2,14,,13,Ye Ni Ni (Special),2,1240,Creeps,,islands,,13,Ye NiNi,14,Creeps,,grassland
+14,Tamamo fox,3,13,,14,Tamamo fox,3,1450,Creeps,,grassland,,13,Ye Ni Ni (Special),14,Creeps,,grassland
+15,Tikar,3,14,,15,Tikar,3,1390,Creeps,yes,grassland,,14,Tamamo fox,13,Random dungeon boss,,dungeon
+16,pot elephant,1,13,,15,Tikar,3,1390,Creeps,yes,islands,,15,Tikar,14,Creeps,yes,grassland
+17,Look at the devil,3,14,,16,pot elephant,1,1490,Creeps,,grassland,,16,pot elephant,13,Random dungeon boss,,dungeon
+18,Miruffy,2,14,,17,Look at the devil,3,1380,Creeps,yes,grassland,,17,Look at the devil,14,Creeps,yes,grassland
+19,sleep demon,3,15,,17,Look at the devil,3,1380,Creeps,yes,islands,,18,Miruffy,14,Creeps,,grassland
+20,sage pig,2,13,,18,Miruffy,2,1455,Creeps,,grassland,,19,sleep demon,15,Creeps,,dungeon
+21,Lunati,3,19,,18,Miruffy,2,1455,Creeps,,islands,,20,sage pig,13,Random dungeon boss,,dungeon
+22,Escape Rat,5,40,,19,sleep demon,3,1230,Creeps,yes,grassland,,21,Lunati,19,Random dungeon boss,,dungeon
+23,squid,5,13,,20,sage pig,2,1130,Creeps,,islands,,22,Escape Rat,40,Random dungeon boss,,dungeon
+24,ice cream,30,45,,21,Lunati,3,1180,Creeps,yes,islands,,23,squid,13,Random dungeon boss,,dungeon
+24,Meowster,5,15,,22,Escape Rat,5,1220,Creeps,,dungeon,,24,ice cream,45,Random dungeon boss,,dungeon
+25,Rumiel,2,13,,23,squid,5,1290,Creeps,,dungeon,,24,Meowster,15,Creeps,,dungeon
+26,hunting wolves,4,15,,24,ice cream,30,1440,Creeps,,Snow,,25,Rumiel,13,Random dungeon boss,,dungeon
+27,Fried egg bird,11,40,,24,Meowster,5,1480,Creeps,,dungeon,,26,hunting wolves,15,Creeps,,grassland
+28,Bona Rabbit,10,29,,25,Rumiel,2,870,Creeps,,grassland,,27,Fried egg bird,40,Random dungeon boss,,dungeon
+29,Boba Cow,10,19,,26,hunting wolves,4,1060,Creeps,,islands,,28,Bona Rabbit,29,Random dungeon boss,,dungeon
+30,Thorn Fairy,16,29,,27,Fried egg bird,11,1340,Creeps,,grassland,,29,Boba Cow,19,Random dungeon boss,,dungeon
+31,Sharkboy,20,29,,28,Bona Rabbit,10,1280,event,,Random events,,30,Thorn Fairy,29,Random dungeon boss,,dungeon
+31,red shark,25,38,,29,Boba Cow,10,910,Creeps,,grassland,,31,red shark,38,Random dungeon boss,,dungeon
+32,Hanging spirit,14,40,,30,Thorn Fairy,16,1320,Creeps,,forest,,31,Sharkboy,29,Random dungeon boss,,dungeon
+32,Icebound Spirit,33,35,,31,red shark,25,1100,Creeps,,volcano,,32,Icebound Spirit,35,Creeps,yes,Snow
+33,Ye Panda,25,29,,31,Sharkboy,20,1090,Creeps,,forest,,32,Hanging spirit,40,Random dungeon boss,,dungeon
+33,Lei Panda,31,37,,32,Icebound Spirit,33,1422,Creeps,yes,Snow,,33,Ye Panda,29,Random dungeon boss,,dungeon
+34,Marshmallow,14,19,,32,Hanging spirit,14,1420,Random dungeon boss,,dungeon,,33,Lei Panda,37,Creeps,,dungeon
+35,bush sheep,6,41,,32,Hanging spirit,14,1420,Creeps,,grassland,,34,Marshmallow,19,Random dungeon boss,,dungeon
+36,Melupa,5,17,,33,Ye Panda,25,430,Creeps,,forest,,35,bush sheep,41,Creeps,,Snow
+37,Only a deer,18,22,,33,Lei Panda,31,390,Wild BOSS,,grassland,,36,Melupa,17,Creeps,,grassland
+37,Zixia Deer,6,13,,34,Marshmallow,14,1190,Creeps,,grassland,,37,Only a deer,22,Creeps,,game reserve
+38,Swift Falcon,9,40,,34,Marshmallow,14,1190,Random dungeon boss,,dungeon,,37,Zixia Deer,13,Random dungeon boss,,dungeon
+39,Ji Xiaotu,2,19,,35,bush sheep,6,930,Random dungeon boss,,dungeon,,38,Swift Falcon,40,Random dungeon boss,,dungeon
+40,Dark Demon Sheep,40,45,,36,Melupa,5,890,Wild BOSS,,grassland,,39,Ji Xiaotu,19,Random dungeon boss,,dungeon
+40,Balrog Sheep,29,38,,37,Only a deer,18,900,Creeps,,game reserve,,40,Dark Demon Sheep,45,Creeps,,game reserve
+41,Huan Yue Butterfly,18,29,,37,Zixia Deer,6,920,Random dungeon boss,,dungeon,,40,Balrog Sheep,38,Random dungeon boss,,dungeon
+42,Blazing Ox,9,39,,38,Swift Falcon,9,420,Creeps,,grassland,,41,Huan Yue Butterfly,29,Random dungeon boss,,dungeon
+43,Pa Pa Pa Catfish,14,38,,39,Ji Xiaotu,2,1310,Creeps,,islands,,42,Blazing Ox,39,Creeps,,Snow
+44,Black Crow Hermit,12,40,,40,Dark Demon Sheep,40,580,Creeps,,game reserve,,43,Pa Pa Pa Catfish,38,Random dungeon boss,,dungeon
+45,Hot-blooded lizard,15,38,,40,Balrog Sheep,29,590,Creeps,,volcano,,44,Black Crow Hermit,40,Random dungeon boss,,dungeon
+45,punk lizard,29,40,,41,Huan Yue Butterfly,18,490,Creeps,,forest,,45,punk lizard,40,Random dungeon boss,,dungeon
+46,Moonscythe Demon,12,29,,42,Blazing Ox,9,790,Creeps,,grassland,,45,Hot-blooded lizard,38,Random dungeon boss,,dungeon
+47,Tianqinniao,9,29,,43,Pa Pa Pa Catfish,14,895,Random dungeon boss,,dungeon,,46,Moonscythe Demon,29,Random dungeon boss,,dungeon
+48,Feather Archer,21,29,,43,Pa Pa Pa Catfish,14,895,Wild BOSS,,grassland,,47,Tianqinniao,29,Random dungeon boss,,dungeon
+48,mountain shooter,30,40,,44,Black Crow Hermit,12,1080,Creeps,yes,grassland,,48,mountain shooter,40,Random dungeon boss,,dungeon
+49,Iron Fist Ape,18,29,,45,punk lizard,29,1120,Creeps,,volcano,,48,Feather Archer,29,Random dungeon boss,,dungeon
+50,knight bee,20,25,,45,Hot-blooded lizard,15,1140,Creeps,yes,volcano,,49,Iron Fist Ape,29,Random dungeon boss,,dungeon
+51,queen bee,28,31,,46,Moonscythe Demon,12,950,Creeps,yes,grassland,,50,knight bee,25,Wild BOSS,,forest
+52,Laughing Nightmare Cat,17,29,,47,Tianqinniao,9,1030,Creeps,,grassland,,51,queen bee,31,Wild BOSS,,forest
+53,Mao duster,7,27,,48,mountain shooter,30,1000,Creeps,,desert,,52,Laughing Nightmare Cat,29,Random dungeon boss,,dungeon
+54,Dad Mao,11,32,,48,Feather Archer,21,1020,event,,Random events,,53,Mao duster,27,Creeps,,forest snow
+55,Whirling Weasel,11,45,,49,Iron Fist Ape,18,1040,event,,Random events,,54,Dad Mao,32,Creeps,,forest snow
+56,thunder wildebeest,7,31,,50,knight bee,20,1070,Creeps,,dungeon,,55,Whirling Weasel,45,Random dungeon boss,,dungeon
+57,blowing snow fox,28,32,,50,knight bee,20,1070,Creeps,,forest,,56,thunder wildebeest,31,Wild BOSS,,grassland
+58,fire unicorn,29,38,,51,queen bee,28,330,Creeps,,forest,,57,blowing snow fox,32,Creeps,,forest snow
+58,evil unicorn,32,38,,52,Laughing Nightmare Cat,17,510,Wild BOSS,,grassland,,58,fire unicorn,38,Random dungeon boss,,dungeon
+59,Deer in severe winter,25,45,,53,Mao duster,7,1300,Wild BOSS,,grassland,,58,evil unicorn,38,Random dungeon boss,,dungeon
+60,thunder dog,30,40,,54,Dad Mao,11,410,Wild BOSS,,grassland,,59,Deer in severe winter,45,Random dungeon boss,,dungeon
+61,Blue Flame Wolf,28,32,,55,Whirling Weasel,11,800,Wild BOSS,,grassland,,60,thunder dog,40,Random dungeon boss,,dungeon
+62,Thunder Boy,29,40,,56,thunder wildebeest,7,680,Creeps,,grassland,,61,Blue Flame Wolf,32,Creeps,yes,forest snow
+63,Mystia,32,45,,57,blowing snow fox,28,760,Creeps,,forest snow,,62,Thunder Boy,40,Random dungeon boss,,dungeon
+64,Thunder Guanlong,35,47,,58,fire unicorn,29,360,Creeps,,volcano,,63,Mystia,45,Random dungeon boss,,dungeon
+64,Corolla dragon,10,39,,58,fire unicorn,29,360,Wild BOSS,,grassland,,64,Corolla dragon,39,event,,Random events
+65,water-sliding snake,14,26,,58,evil unicorn,32,240,Creeps,,dungeon,,64,Thunder Guanlong,47,Wild BOSS,,desert
+65,quicksand snake,30,40,,59,Deer in severe winter,25,880,Creeps,,forest snow,,65,quicksand snake,40,Random dungeon boss,,dungeon
+66,Soul Eater,36,45,,60,thunder dog,30,740,Creeps,,desert,,65,water-sliding snake,26,Creeps,yes,forest
+67,Rock Crusher Turtle,17,40,,61,Blue Flame Wolf,28,830,Creeps,yes,forest snow,,66,Soul Eater,45,Random dungeon boss,,dungeon
+68,cat bat monster,5,45,,62,Thunder Boy,29,1210,Creeps,,desert,,67,Rock Crusher Turtle,40,Random dungeon boss,,dungeon
+69,fraternity lizard,18,40,,63,Mystia,32,1110,Secret Domain BOSS,,grassland,,68,cat bat monster,45,Random dungeon boss,,dungeon
+70,Rong Yan Niang,9,38,,64,Corolla dragon,10,820,Random dungeon boss,,dungeon,,69,fraternity lizard,40,Random dungeon boss,,dungeon
+71,Fenggelong,10,40,,64,Thunder Guanlong,35,810,Creeps,,desert,,70,Rong Yan Niang,38,Random dungeon boss,,dungeon
+71,Frost Song Dragon,36,45,,65,quicksand snake,30,550,Creeps,,desert,,71,Fenggelong,40,event,,Random events
+72,Wave Blade Samurai,23,45,,65,water-sliding snake,14,560,Random dungeon boss,,dungeon,,71,Frost Song Dragon,45,Random dungeon boss,,dungeon
+73,Thunderbird,29,40,,66,Soul Eater,36,1150,Creeps,yes,Snow,,72,Wave Blade Samurai,45,Creeps,,game reserve
+74,Flamingo,34,38,,67,Rock Crusher Turtle,17,850,Random dungeon boss,,dungeon,,73,Thunderbird,40,Random dungeon boss,,dungeon
+75,dark witch cat,20,29,,68,cat bat monster,5,750,Creeps,yes,islands,,74,Flamingo,38,Random dungeon boss,,dungeon
+76,Flame Witch Fox,16,38,,69,fraternity lizard,18,940,Creeps,yes,grassland,,75,dark witch cat,29,Random dungeon boss,,dungeon
+77,spring rabbit,35,45,,70,Rong Yan Niang,9,1405,Creeps,,volcano,,76,Flame Witch Fox,38,Random dungeon boss,,dungeon
+78,Verita,18,38,,71,Fenggelong,10,660,Creeps,,grassland,,77,spring rabbit,45,Creeps,,game reserve
+79,silk moth,36,45,,71,Frost Song Dragon,36,620,Creeps,yes,Snow,,78,Verita,38,Secret Domain BOSS,,forest
+80,Faerie Dragon,18,45,,72,Wave Blade Samurai,23,640,Secret Domain BOSS,,grassland,,79,silk moth,45,Random dungeon boss,,dungeon
+81,Huo Linger,9,38,,73,Thunderbird,29,220,Wild BOSS,,grassland,,80,Faerie Dragon,45,Random dungeon boss,,dungeon
+81,Shui Linger,9,19,,74,Flamingo,34,380,Creeps,,volcano,,81,Shui Linger,19,Random dungeon boss,,dungeon
+82,Bihailong,17,22,,75,dark witch cat,20,700,Creeps,,dungeon,,81,Huo Linger,38,Random dungeon boss,,dungeon
+83,Ice Thorn Beast,36,45,,76,Flame Witch Fox,16,1160,Creeps,,volcano,,82,Bihailong,22,Creeps,,game reserve
+84,Hell King,33,38,,77,spring rabbit,35,990,Secret Domain BOSS,,forest,,83,Ice Thorn Beast,45,Random dungeon boss,,dungeon
+84,Hellfire King,34,38,,78,Verita,18,1050,Creeps,,game reserve,,84,Hellfire King,38,Random dungeon boss,,dungeon
+85,Pecorone,15,20,,79,silk moth,36,450,Creeps,,Snow,,84,Hell King,38,Random dungeon boss,,dungeon
+85,Parker,31,31,,80,Faerie Dragon,18,540,Creeps,,game reserve,,85,Pecorone,20,event,,Random events
+86,Allother,30,30,,81,Shui Linger,9,1260,Creeps,,grassland,,85,Pecorone,20,Creeps,,grassland
+86,Lian Lilong,17,23,,81,Huo Linger,9,1270,Creeps,,volcano,,85,Parker,31,Secret Domain BOSS,,grassland
+87,Hualina,18,28,,82,Bihailong,17,500,Wild BOSS,,grassland,,86,Allother,30,Wild BOSS,,grassland
+88,Frost Beast,42,45,,83,Ice Thorn Beast,36,130,Creeps,,Snow,,86,Lian Lilong,23,Wild BOSS,,grassland
+88,Lava Beast,34,38,,84,Hellfire King,34,710,Creeps,,volcano,,87,Hualina,28,Secret Domain BOSS,,forest
+89,King Melupa,23,45,,84,Hell King,33,670,Creeps,yes,volcano,,88,Frost Beast,45,Random dungeon boss,,dungeon
+89,Ice Emperor Melpa,46,46,,85,Pecorone,15,280,Creeps,,grassland,,88,Lava Beast,38,Random dungeon boss,,dungeon
+90,snow mammoth,41,45,,85,Parker,31,270,Secret Domain BOSS,,grassland,,89,Ice Emperor Melpa,46,Wild BOSS,,Snow
+90,Mammoth,30,40,,86,Allother,30,840,Wild BOSS,,grassland,,89,King Melupa,45,Creeps,,game reserve
+91,Green Moss Velvet,38,45,,86,Lian Lilong,17,860,Creeps,,grassland,,90,Mammoth,40,Creeps,,Snow
+91,White Velvet Snow Monster,41,45,,87,Hualina,18,780,Creeps,,game reserve,,90,snow mammoth,45,Random dungeon boss,,dungeon
+92,Kaigres,30,45,,88,Frost Beast,42,230,Creeps,,dungeon,,91,White Velvet Snow Monster,45,Random dungeon boss,,dungeon
+93,Cloud sea deer,15,45,,88,Frost Beast,42,230,Random dungeon boss,,dungeon,,91,Green Moss Velvet,45,Creeps,,game reserve
+94,Night Mephit,20,31,,88,Lava Beast,34,320,Creeps,,volcano,,92,Kaigres,45,Creeps,,game reserve
+95,Tianyulong,23,45,,89,Ice Emperor Melpa,46,440,Wild BOSS,,Snow,,93,Cloud sea deer,45,Creeps,,game reserve
+96,Flame Glory,40,49,,89,King Melupa,23,470,Wild BOSS,,grassland,,94,Night Mephit,31,Wild BOSS,,grassland
+97,Thunderbird,24,28,,90,Mammoth,30,300,Creeps,,islands,,95,Tianyulong,45,Random dungeon boss,,dungeon
+98,Demon Dragon,40,48,,90,snow mammoth,41,290,Creeps,,Snow,,95,Tianyulong,45,Creeps,,game reserve
+99,Dark Armored Scorpion,40,45,,91,White Velvet Snow Monster,41,460,Creeps,,Snow,,96,Flame Glory,49,Wild BOSS,,volcano
+100,Anubis,47,47,,91,Green Moss Velvet,38,480,Wild BOSS,,grassland,,97,Thunderbird,28,Creeps,yes,forest
+101,Sea-covering dragon,45,45,,92,Kaigres,30,340,Secret Domain BOSS,,forest,,98,Demon Dragon,48,Wild BOSS,,volcano
+101,Teng Yanlong,40,45,,93,Cloud sea deer,15,980,Wild BOSS,,grassland,,99,Dark Armored Scorpion,45,Creeps,,game reserve
+102,Qingque,42,45,,94,Night Mephit,20,1010,Creeps,,dungeon,,100,Anubis,47,Wild BOSS,,grassland
+102,Suzaku,40,45,,95,Tianyulong,23,350,Secret Domain BOSS,,grassland,,101,Teng Yanlong,45,Creeps,,game reserve
+103,Lightning Bear,18,22,,96,Flame Glory,40,10,Creeps,,game reserve,,101,Sea-covering dragon,45,Wild BOSS,,grassland
+104,lily queen,40,45,,97,Thunderbird,24,190,Creeps,yes,forest,,102,Suzaku,45,Wild BOSS,,desert
+104,black moon queen,49,49,,98,Demon Dragon,40,150,Creeps,,game reserve,,102,Qingque,45,Random dungeon boss,,dungeon
+105,Horus,40,45,,99,Dark Armored Scorpion,40,260,Creeps,,game reserve,,103,Lightning Bear,22,Creeps,,game reserve
+106,Pollux,40,45,,100,Anubis,47,570,Wild BOSS,,grassland,,104,lily queen,45,Creeps,,game reserve
+107,Heterogeneous Griffin,40,45,,101,Teng Yanlong,40,315,Creeps,,game reserve,,104,black moon queen,49,Wild BOSS,,Snow
+108,Knight of Light,50,50,,101,Sea-covering dragon,45,310,Wild BOSS,,grassland,,105,Horus,45,Creeps,,game reserve
+109,Chaos Knight,50,50,,102,Suzaku,40,50,Creeps,,desert,,106,Pollux,45,Creeps,,game reserve
+110,Winter Caller,50,50,,102,Qingque,42,30,Random dungeon boss,,dungeon,,107,Heterogeneous Griffin,45,Creeps,,game reserve
+111,Vortex Dragon,50,50,,103,Lightning Bear,18,200,Creeps,,game reserve,,108,Knight of Light,50,Wild BOSS,,desert
+,,,,,104,lily queen,40,250,Creeps,,game reserve,,109,Chaos Knight,50,Wild BOSS,,desert
+,,,,,104,black moon queen,49,210,Wild BOSS,,Snow,,110,Winter Caller,50,Wild BOSS,,Snow
+,,,,,105,Horus,40,370,Creeps,,game reserve,,111,Vortex Dragon,50,Wild BOSS,,volcano
+,,,,,106,Pollux,40,140,Creeps,,game reserve,,,,,,,
+,,,,,107,Heterogeneous Griffin,40,60,Creeps,,game reserve,,,,,,,
+,,,,,108,Knight of Light,50,80,Wild BOSS,,desert,,,,,,,
+,,,,,109,Chaos Knight,50,70,Wild BOSS,,desert,,,,,,,
+,,,,,110,Winter Caller,50,120,Wild BOSS,,Snow,,,,,,,
+,,,,,111,Vortex Dragon,50,90,Wild BOSS,,volcano,,,,,,,

@@ -1,0 +1,17 @@
+﻿name,Victor & Heterogeneous Griffin,Heterogeneous Griffin,Zoe & Lightning Bear,Lightning Bear,Marcus & Horus,Horus,Lily & Lily Queen,lily queen,Axel & Pollux,Pollux
+HP,8000,120,6000,105,6500,100,5500,110,6500,100
+melee attack,130,130,100,120,100,100,100,100,100,100
+Remote attack,200,120,100,100,120,105,110,110,140,130
+defense,220,140,100,100,125,110,105,105,110,100
+Support,90,90,100,100,90,90,100,100,100,100
+experience ratio,30,1,30,1,30,1,30,1,30,1
+slow walking speed,80,80,80,80,150,150,60,60,100,100
+walking speed,80,80,140,140,200,200,100,100,185,185
+running speed,850,850,470,470,1000,1000,450,450,900,900
+riding speed,1100,1200,650,550,1300,1400,650,550,1300,1200
+Handling speed,465,465,287,210,500,500,275,275,542,250
+Ignore the bluntness,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+Ignore displacement,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+BiologicalGrade,9,5,9,5,9,5,9,5,9,5
+endurance,100,250,100,100,100,230,100,100,100,100
+fecundity,9999,60,9999,200,9999,370,9999,250,9999,140

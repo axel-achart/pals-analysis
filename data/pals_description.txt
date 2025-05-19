@@ -1,0 +1,47 @@
+Dataset description
+The Pal dataset records the following information in detail:
+
+- Chinese name and English name: Describe the Chinese and English names of the Pal respectively, such as "Victor & Heterogeneous Griffin" and "Lamball".
+
+- Code Name: Internal identification code, e.g. "GYM_BlackGriffon".
+
+- Whether it is a Pal: Identifies whether the entity belongs to a Pal, such as True.
+
+- Race: Indicate the race of the Pal, such as "EPalTribeID::BlackGriffon".
+
+- Shape and Size: Describe the size and size of the Pal, such as XL and "smallest".
+
+- Rarity: The numerical value indicates the rarity of the Pal.
+
+- Elemental Attributes: The elemental attributes possessed by Pal, such as Dark.
+
+- Category: The Pal's creature type, such as Tetrapod.
+
+- Basic attribute values: including health, attack power, defense power, support power, etc.
+
+- Process Speed: The efficiency with which craft activities are performed.
+
+- Capture probability, experience multiplier, price: relevant parameters related to game mechanics.
+
+- Skills: total number of skills and specific skills, such as manual, pasture, handling, etc.
+
+- Night Shift Ability: Indicates whether the Pal is suitable for night work.
+
+
+Tables description 
+- Palworld_Data--Palu combat attribute table.csv : contains information about attributes and skills used by Pals in battle.
+
+- Palworld_Data--Palu refresh level.csv : contains the level information of Pals refreshed in the game.
+
+- Palworld_Data-Palu Job Skills Table.cs : contains different job skills and related information about Pals.
+
+- Palworld_Data-Tower BOSS attribute comparison.csv : Contains a comparison of the names and attributes of different BOSSs, such as "Victor & Heterogeneous Griffin", "Heterogeneous Griffin", etc.
+
+- Palworld_Data-comparison of ordinary BOSS attributes.csv : Similar to "Tower BOSS Attribute Comparison", this data set provides attribute comparison between ordinary BOSS.
+
+- Palworld_Data-hide pallu attributes.csv : Dataset reveals hidden Pals attribute information in games.
+
+
+
+
+
